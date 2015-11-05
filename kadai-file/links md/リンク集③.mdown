@@ -1,0 +1,35 @@
+# [ゼンショーグループ][zensho]
+
+---
+
+- 牛丼カテゴリー
+	- [すき家][sukiya]
+	- なか卯
+- レストランカテゴリー
+	- [ココス][kokosu]
+	- [ジョリーパスタ][jolly]
+	- [華屋][hanaya]
+	- [牛庵][gyuan]
+	- ビッグボーイ
+	- Victoria Station
+	- ELTORITO
+	- いちばん
+	- 宝島
+- ファストフードカテゴリー
+	- [はま寿司][hamazushi]
+	- 伝丸
+	- 九兵衛屋
+	- 瀬戸うどん
+	- たもん庵
+	- Moriva coffee
+	- Cafe Milano
+
+---
+
+[zensho]: <http://www.zensho.co.jp/jp/group/>
+[sukiya]: <http://www.sukiya.jp/>
+[kokosu]: <http://www.cocos-jpn.co.jp/>
+[jolly]: <http://www.jolly-pasta.co.jp/>
+[hanaya]: <http://www.hanayayohei.co.jp/index.html>
+[gyuan]: <http://www.gyuan.jp/gyuan/>
+[hamazushi]: <http://www.hamazushi.com/hamazushi/index.html>
