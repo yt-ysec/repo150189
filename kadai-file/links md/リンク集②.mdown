@@ -1,0 +1,21 @@
+# 東京地区　新聞定期購読一覧
+
+---
+
+- [東京新聞][tokyo]			3,343円
+- [読売新聞][yomiuri]			4,037円
+- [朝日新聞][asahi]			4,037円
+- [毎日新聞][mainichi]			4,037円
+- [日経新聞][nikkei]			4,509円
+
+2014年4月1日より　税込み
+
+---
+
+参考　http://luckystyle.jp/?page_id=56
+
+[tokyo]: <http://aimsnet.jp/1740001>
+[yomiuri]: <https://33.asahi.com/apply/w/brandSelect.php?>
+[asahi]: <http://www.434381.jp/26/>
+[mainichi]: <https://www.areamainichi.jp/subscription/index2.php>
+[nikkei]: <http://www.nikkei4946.com/nikkei-hk/ovr.html?>
