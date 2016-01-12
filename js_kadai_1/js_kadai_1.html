@@ -5,16 +5,23 @@
 		<meta charset="utf-8">
 		<title>tmp: making training menu</title>
 		<script>
-			funcrion fire(){
+			function fire(){
+				for(var i=0; i<200; i++){
+					if((i+1 )%2 === 0){
+						document.write(i+1 +': '+'fire!!!<br>');
+					}else{
+						document.write(i+1 +': '+'ふぁいあーーーー<br>');
+					}
 
+				}
 			}
 
 		</script>
 	</head>
 
 	<body>
-		<button onclick"fire();">Click Me</button>
-		
+		<button onclick="fire();">Click Me</button>
+
 	</body>
 
 </html>
